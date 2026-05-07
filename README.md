@@ -1,2 +1,8 @@
 **Pizza Sales Analytics Dashboard | SQL + Power BI**
-An interactive business intelligence dashboard built using SQL and Power BI to analyze pizza sales performance, customer ordering trends, revenue insights, and top-selling products. Features dynamic KPIs, trend analysis, and visually rich reports to support data-driven business decisions.
+Built an interactive business intelligence dashboard using SQL and Power BI.
+Analyzed pizza sales performance, customer ordering trends, and revenue insights.
+Identified top-selling products and category-wise sales performance.
+Developed dynamic KPI cards and trend analysis reports for better business insights.
+Created visually rich and interactive dashboards to support data-driven decision-making.
+
+
